@@ -18,6 +18,6 @@ Build Landing (/);
 
 Build Dashboard (/dashboard) — Project stats, FPS gauge, performance chart, recent projects — all live data;
 
-/The Database Management System Bubbles Up The DB In One Glob File Object/
+/The Database Management System Bubbles Up The DB In One Glob-Object-File/
 
 Glob{keys, values}; }; };
