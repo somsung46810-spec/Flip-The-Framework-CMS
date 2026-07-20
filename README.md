@@ -12,7 +12,7 @@ Build AI Generation Lab with param ID pluggable provider selectors, and vector I
 
 Xor << Hex << Base_44 << Reg(expand *text).Edit(add/remove &index).Diskette(/build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation./);
 
-"Put One In The Other, Before In The AFter";
+"Put One And The Other, Before And The AFter";
 
 Build Landing (/);
 
