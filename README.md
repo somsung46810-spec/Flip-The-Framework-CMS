@@ -3,25 +3,25 @@
 #using clipfiles.io
 #using pivio.ai
 
-/FLIP/;
+/FLIP;/
 
 Base Custom Construct : Implements Derived Custom Component{&Custom(){
 
 ## Controller
 
-/Let Key Components Interlock Onto One Epic Construct For Cloning Deduplicates/;
+/Let Key Components Interlock Onto One Epic Construct For Cloning Deduplicates;/
 
-/In Replicating Database Objects/;
+/In Replicating Database Objects;/
 
 Xor << Hex << Base_44 << Reg(expand *text).Edit(add/remove &index).Diskette(/build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation./);
 
-/Put One And The Other, Before And The AFter/;
+/Poll;/
 
 ## View
 
 /call clipfiles.io
 
-/Build AI Generation Lab with param ID pluggable provider selectors, and vector I/O for buffer overflows and/or racing conditions;
+build AI Generation Lab with param ID pluggable provider selectors, and vector I/O for buffer overflows and/or racing conditions;
 
 Build Landing (/);
 
@@ -31,6 +31,6 @@ Build Dashboard (/dashboard) — Project stats, FPS gauge, performance chart, re
 
 /call pivio.ai
 
-/The Database Management System Bubbles Up The DB In One Glob-Object-File/
+/*The Database Management System Bubbles Up The DB In One Glob-Object-File*/
 
 Glob{keys, values}; }; };
