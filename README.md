@@ -21,7 +21,7 @@ Xor << Hex << Base_44 << Reg(expand *text).Edit(add/remove &index).Diskette(/bui
 
 /call clipfiles.io
 
-build AI Generation Lab with param ID pluggable provider selectors, and vector I/O for buffer overflows and/or racing conditions;
+Build AI Generation Lab with param ID pluggable provider selectors, and vector I/O for buffer overflows and/or racing conditions;
 
 Build Landing (/);
 
